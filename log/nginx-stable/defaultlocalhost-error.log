@@ -1,0 +1,1 @@
+2019/03/19 13:28:00 [warn] 279#279: *31 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.16.238.1, server: _, request: "POST /vendor/phpmyadmin-4.8.4/import.php HTTP/1.1", host: "localhost"
