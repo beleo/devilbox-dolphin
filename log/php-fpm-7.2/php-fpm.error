@@ -69,3 +69,5 @@
 [19-Mar-2019 13:25:58] WARNING: [pool www] child 2071, script '/shared/httpd/dolphin-release/htdocs/install/index.php' (request: "POST /install/index.php") execution timed out (149.396644 sec), terminating
 [19-Mar-2019 13:25:58] WARNING: [pool www] child 2071 exited on signal 15 (SIGTERM) after 164.952912 seconds from start
 [19-Mar-2019 13:25:58] NOTICE: [pool www] child 2422 started
+[19-Mar-2019 16:07:46] NOTICE: Terminating ...
+[19-Mar-2019 16:07:46] NOTICE: exiting, bye-bye!
